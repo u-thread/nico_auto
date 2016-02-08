@@ -1,0 +1,12 @@
+#!/bin/bash
+#delete advertisement
+sleep 4
+xte 'mousemove 710 480'
+xte 'mouseclick l'
+sleep 5
+xte 'mousemove 1175 750'
+xte 'mouseclick l'
+
+#forcus on comment form
+xte 'mousemove 500 800'
+xte 'mouseclick l'

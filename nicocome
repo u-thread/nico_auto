@@ -1,0 +1,4 @@
+#!/bin/bash
+#focuzs on comment form
+xte 'mousemove 500 800'
+xte 'mouseclick l'
